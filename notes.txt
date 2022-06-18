@@ -1,0 +1,12 @@
+penamaan :
+-iniMethodDalamKelas()
+-ini_variabel
+-php = Bhs inggris
+-MySQL = Bhs Indonesia
+
+[19/7/14-19.04]
+Masih kurang memperbaiki Loginnya!!
+Kasih Error Reportnya!!
+
+[27/8/14]
+Pada laman presensi, dikasih opsi untuk mencari berdasarkan nama!
